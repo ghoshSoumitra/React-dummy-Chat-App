@@ -5,12 +5,6 @@ const contactList = [
     "avatar": "https://scontent.frdp1-1.fna.fbcdn.net/v/t39.30808-6/323384074_849821986318905_8733327603802367068_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=y-Gb8y65dIQAX9X9vXy&_nc_ht=scontent.frdp1-1.fna&oh=00_AfDyEDEzyhxRZzfviC3pkJuKmLTgGBte-TWUfyoyXxinqA&oe=6472A416",
     "messages": [
       {
-        "id": "2",
-        "message": "I'm doing great, thanks for asking. How about you?",
-        "avatar": "https://scontent.frdp1-1.fna.fbcdn.net/v/t39.30808-6/323384074_849821986318905_8733327603802367068_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=y-Gb8y65dIQAX9X9vXy&_nc_ht=scontent.frdp1-1.fna&oh=00_AfDyEDEzyhxRZzfviC3pkJuKmLTgGBte-TWUfyoyXxinqA&oe=6472A416",
-        "sentByUser": false
-      },
-      {
         "id": "1",
         "message": "Hey, how are you doing?",
         "avatar": "https://scontent.frdp1-1.fna.fbcdn.net/v/t31.18172-8/24313412_727020817504410_4945962027499434399_o.jpg?_nc_cat=103&ccb=1-7&_nc_sid=19026a&_nc_ohc=QdXKWUBWRikAX8i06wE&_nc_ht=scontent.frdp1-1.fna&oh=00_AfCueX-O1LUMTrxaWJcoQOSVZQW-FFrUoyH0EKdhxWFfug&oe=64956B80",
@@ -22,20 +16,17 @@ const contactList = [
         "avatar": "https://scontent.frdp1-1.fna.fbcdn.net/v/t39.30808-6/323384074_849821986318905_8733327603802367068_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=y-Gb8y65dIQAX9X9vXy&_nc_ht=scontent.frdp1-1.fna&oh=00_AfDyEDEzyhxRZzfviC3pkJuKmLTgGBte-TWUfyoyXxinqA&oe=6472A416",
         "sentByUser": false
       },
+     
+    
       {
         "id": "1",
-        "message": "Hey, how are you doing?",
+        "message": "I am Fine too",
         "avatar": "https://scontent.frdp1-1.fna.fbcdn.net/v/t31.18172-8/24313412_727020817504410_4945962027499434399_o.jpg?_nc_cat=103&ccb=1-7&_nc_sid=19026a&_nc_ohc=QdXKWUBWRikAX8i06wE&_nc_ht=scontent.frdp1-1.fna&oh=00_AfCueX-O1LUMTrxaWJcoQOSVZQW-FFrUoyH0EKdhxWFfug&oe=64956B80",
         "sentByUser": true
       },
-      {
-        "id": "2",
-        "message": "I'm doing great, thanks for asking. How about you?",
-        "avatar": "https://scontent.frdp1-1.fna.fbcdn.net/v/t39.30808-6/323384074_849821986318905_8733327603802367068_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=y-Gb8y65dIQAX9X9vXy&_nc_ht=scontent.frdp1-1.fna&oh=00_AfDyEDEzyhxRZzfviC3pkJuKmLTgGBte-TWUfyoyXxinqA&oe=6472A416",
-        "sentByUser": false
-      },
+   
     ],
-    "lastMessage": "I'm doing great, thanks for asking. How about you?"
+    "lastMessage": "I am Fine too"
   },
   {
     "id": "3",
