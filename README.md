@@ -13,8 +13,8 @@ This is the frontend for a chat application built using React.js. The applicatio
 
 To run this project, follow these steps:
 
-1. Clone the repository to your local machine using `git clone https://github.com/NamanSnag/react-chatapp`
-2. Install the required dependencies using `npm i`
+1. Clone the repository to your local machine
+2. Install the required dependencies using `npm install`
 3. Run the project using `npm start`
 4. Open the application in your browser at `http://localhost:3000`
 
@@ -36,9 +36,7 @@ Users can add new contact by clicking the "Conversations" button in the left sid
 
 Users can send messages in the current selected conversation using the text input field in the right side view.
 
-### Handle Errors and Success Alerts
 
-The application handles errors and success alerts and displays appropriate notifications to the user.
 
 ## Directory Structure and flow of The Code
 
@@ -77,6 +75,4 @@ The application handles errors and success alerts and displays appropriate notif
     └------ README.md
 
 
-## Author
 
-- [@Naman Nag](https://github.com/NamanSnag)
