@@ -16,8 +16,7 @@ const contactList = [
         "avatar": "https://scontent.frdp1-1.fna.fbcdn.net/v/t39.30808-6/323384074_849821986318905_8733327603802367068_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=y-Gb8y65dIQAX9X9vXy&_nc_ht=scontent.frdp1-1.fna&oh=00_AfDyEDEzyhxRZzfviC3pkJuKmLTgGBte-TWUfyoyXxinqA&oe=6472A416",
         "sentByUser": false
       },
-     
-    
+  
       {
         "id": "1",
         "message": "I am Fine too",
